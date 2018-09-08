@@ -46,7 +46,7 @@ These are impressive uses of Elixir, worth checking out if you have the interest
 
     The speaker broke down how IEx.break works by going from Elixir, Erlang, C to Beam byte code (with intelij) and back again
 
-1. [Behavior Trees and Battleship: Tapping into the Power of Advanced Data Structures(https://www.youtube.com/watch?v=3sLYzxuKGXI)
+1. [Behavior Trees and Battleship: Tapping into the Power of Advanced Data Structures](https://www.youtube.com/watch?v=3sLYzxuKGXI)
 
     It's a hit! Cool talk. Great if you like tree structures (#battlesnake)
 
