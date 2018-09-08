@@ -16,7 +16,7 @@ I'm going to just say you should watch them all. They're the keynotes and were a
 
 These are the ones we'd watch to improve your everyday Elixir.
 
-1. [Architecting Flow in Elixir - From Leveraging Pipes to Designing Token APIs](https://www.youtube.com/watch?v=ycpNi701aCs): 
+1. [Architecting Flow in Elixir - From Leveraging Pipes to Designing Token APIs](https://www.youtube.com/watch?v=ycpNi701aCs) 
 
     Founder of Credo. Great talk and breakdown with examples of different code patterns (pipes, with, and tokenization)
 
@@ -24,7 +24,7 @@ These are the ones we'd watch to improve your everyday Elixir.
 
     When you've been working on a Phoenix project for a while and it get's complicated. Good speaker. 
 
-1. [A Deep Dive into Hex](https://www.youtube.com/watch?v=cbCnTKVLuu8): 
+1. [A Deep Dive into Hex](https://www.youtube.com/watch?v=cbCnTKVLuu8)
 
     The guy was funny too. That helps.
 
@@ -32,9 +32,9 @@ These are the ones we'd watch to improve your everyday Elixir.
 
     Good speaker. Actually made it very interesting with his example.
 
-1. [Elixir At A Walking Pace](https://www.youtube.com/watch?v=1IOobarmwQg): 
+1. [Elixir At A Walking Pace](https://www.youtube.com/watch?v=1IOobarmwQg)
 
-1. Breaking Down the User Monolith: 
+1. Breaking Down the User Monolith
     
     Great breakdown. A talk about how to breakdown your user "schema" into smaller parts so that it doesn't just become a behemoth struct. Not complicated Elixir, but a really implementation of splitting concerns. 
 
